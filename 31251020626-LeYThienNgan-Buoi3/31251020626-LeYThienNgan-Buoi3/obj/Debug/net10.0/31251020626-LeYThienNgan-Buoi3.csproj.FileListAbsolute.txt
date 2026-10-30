@@ -1,0 +1,14 @@
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\bin\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.exe
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\bin\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.deps.json
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\bin\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.runtimeconfig.json
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\bin\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.dll
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\bin\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.pdb
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.AssemblyInfoInputs.cache
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.AssemblyInfo.cs
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.dll
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\refint\31251020626-LeYThienNgan-Buoi3.dll
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.pdb
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\31251020626-LeYThienNgan-Buoi3.genruntimeconfig.cache
+C:\Users\Danh\source\repos\31251020626-LeYThienNgan-Buoi3\31251020626-LeYThienNgan-Buoi3\obj\Debug\net10.0\ref\31251020626-LeYThienNgan-Buoi3.dll
